@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a Data Professional that started in this wonderful field around year 2019. 
-In my quest to be establshed as a problem solver, i take up skills necessary to solve Business Problems.
+<br>In my quest to be establshed as a problem solver, i take up skills necessary to solve Business Problems.
 My skill sets inlcude - Excel, SQL, Data viz - Power BI (_Report Builder as well_), Looker Studio, Power Automate.
 
 <!--
